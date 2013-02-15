@@ -15,6 +15,17 @@
   <%= @title.complete %>
 </p>
 
+<p>
+  <b>Created_at:</b>
+  <%= @title.created_at %>
+</p>
+
+<ul>
+<% @title.books.sort{ |a, b| a.volume <=> b.volume }.each do |book| %>
+  <li><%= book.volume %> - <%= book.created_at %>
+<% end %>
+</ul>
+
 
 <%= link_to 'Edit', edit_title_path(@title) %> |
 <%= link_to 'Back', titles_path %>

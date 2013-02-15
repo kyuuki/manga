@@ -1,2048 +1,2561 @@
+---
 '1':
   title: シティーハンター
   author: 北条 司
   complete: true
+  created_at: 2005-02-18 00:29:45.000000000 +09:00
 '2':
   title: エンジェル・ハート
   author: 北条 司
   complete: false
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '3':
   title: ときめきトゥナイト
   author: 池野 恋
   complete: false
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '4':
   title: ちびまる子ちゃん
   author: さくら ももこ
   complete: false
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '5':
   title: ちびまる子ちゃん 他
   author: さくら ももこ
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '6':
   title: ポニーテール白書
   author: 水沢 めぐみ
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '7':
   title: あこがれ冒険者
   author: あさぎり 夕
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '8':
   title: なな色マジック
   author: あさぎり 夕
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '9':
   title: 星の瞳のシルエット
   author: 柊 あおい
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '10':
   title: 卒業写真
   author: あさぎり 夕
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '11':
   title: 花まるカンパニー
   author: 秋元 奈美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '12':
   title: Pなつ通り
   author: 秋元 奈美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '13':
   title: 乙姫CONNECTION
   author: おおや 和美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '14':
   title: 世紀末てっぺんBOY
   author: おおや 和美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '15':
   title: QP
   author: おおや 和美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '16':
   title: St.パイナップル・ムーン
   author: おおや 和美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '17':
   title: 月夜のあかずきん
   author: 上田 美和
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '18':
   title: ジーザス・クライスト
   author: 上田 美和
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '19':
   title: サイン　コサイン　恋サイン
   author: 上田 美和
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '20':
   title: Oh!myダーリン
   author: 上田 美和
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '21':
   title: 憑いてますか
   author: 池沢 理美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '22':
   title: ぐるぐるポンちゃん
   author: 池沢 理美
   complete: true
+  created_at: 2005-12-01 09:43:02.000000000 +09:00
 '23':
   title: 天使のフェロモン
   author: 池沢 理美
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '24':
   title: ごっつ好っきやねん
   author: みやうち 沙矢
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '25':
   title: 好っきやねん
   author: みやうち 沙矢
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '26':
   title: あなたがパラダイス
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '27':
   title: ハッスルで行こう
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '28':
   title: 好きと言えない
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '29':
   title: RED
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '30':
   title: 僕らは強気なRUNNERだ！
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '31':
   title: 小山荘のきらわれ者
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '32':
   title: カラフルBOX
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '33':
   title: 白鳥麗子でございます！
   author: 鈴木 由美子
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '34':
   title: 新・白鳥麗子でございます！
   author: 鈴木 由美子
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '35':
   title: ときめき大予言
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '36':
   title: あい色の涙
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '37':
   title: Milkyまじっく
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '38':
   title: 7200秒のロマンス
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '39':
   title: ないしょのカウント5
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '40':
   title: ありすが不思議！
   author: かわち ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '41':
   title: フレッドウォード氏のアヒル
   author: 牛島 慶子
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '42':
   title: CIPHER
   author: 成田 美名子
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '43':
   title: エイリアン通り
   author: 成田 美名子
   complete: true
+  created_at: 2005-02-06 02:39:34.000000000 +09:00
 '44':
   title: ALEXANDRITE
   author: 成田 美名子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '45':
   title: しょーがないヤツ。
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '46':
   title: 海辺の秋の夕暮れの
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '47':
   title: レッツファイト！
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '48':
   title: だまっていればの花愛ちゃん
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '49':
   title: 続・だまっていればの花愛ちゃん
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '50':
   title: めばえのマーチ
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '51':
   title: うさぎ・すぷりんぐ
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '52':
   title: 菜の花線路のむこう
   author: 長谷川 潤
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '53':
   title: 各駅停車
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '54':
   title: くじら日和
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '55':
   title: 一緒に歩こう
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '56':
   title: ぼくらの気持ち
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '57':
   title: 君と僕の街で
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '58':
   title: 愛はどうだ！
   author: 谷川 史子
   complete: true
+  created_at: 2005-03-06 00:22:56.000000000 +09:00
 '59':
   title: ごきげんな日々
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '60':
   title: 王様といっしょ！
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '61':
   title: 外はいい天気だよ
   author: 谷川 史子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '62':
   title: らんま１／２
   author: 高橋 留美子
   complete: false
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '63':
   title: 赤ちゃんと僕
   author: 羅川 真里茂
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '64':
   title: 君の海へ行こう
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '65':
   title: 少年宇宙
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '66':
   title: 瞳のなかの王国
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '67':
   title: 37℃
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '68':
   title: フルーツ果汁100%
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '69':
   title: オリジナル・シン
   author: 岡野 史佳
   complete: true
+  created_at: 2005-12-01 09:35:53.000000000 +09:00
 '70':
   title: 動物のお医者さん
   author: 佐々木 倫子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '71':
   title: おたんこナース
   author: 佐々木 倫子
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '72':
   title: Heaven
   author: 佐々木 倫子
   complete: true
+  created_at: 2008-05-25 22:51:12.000000000 +09:00
 '73':
   title: っボイ！
   author: やまざき 貴子
   complete: false
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '74':
   title: ZERO
   author: やまざき 貴子
   complete: true
+  created_at: 2008-03-02 13:48:44.000000000 +09:00
 '75':
   title: 八雲立つ
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '76':
   title: パッション・パレード
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '77':
   title: 花咲ける青少年
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '78':
   title: 朱鷺色三角
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '79':
   title: 暁の息子
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '80':
   title: マルチェロ物語
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '81':
   title: OZ
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '82':
   title: 獣王星
   author: 樹 なつみ
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '83':
   title: ぼくの地球を守って
   author: 日渡 早紀
   complete: true
+  created_at: 2005-02-06 02:39:35.000000000 +09:00
 '84':
   title: 未来のうてな
   author: 日渡 早紀
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '85':
   title: 君の手がささやいている
   author: 軽部 潤子
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '86':
   title: 新・君の手がささやいている
   author: 軽部 潤子
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '87':
   title: まっすぐにいこう。
   author: きら
   complete: false
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '88':
   title: 輝夜姫
   author: 清水 玲子
   complete: true
+  created_at: 2005-05-03 00:31:40.000000000 +09:00
 '89':
   title: YASHA
   author: 吉田 秋生
   complete: true
+  created_at: 2010-07-17 14:36:27.000000000 +09:00
 '90':
   title: BANANA FISH
   author: 吉田 秋生
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '91':
   title: BANANA FISH ANOTHER STORY
   author: 吉田 秋生
   complete: true
+  created_at: 2005-05-05 02:55:51.000000000 +09:00
 '92':
   title: darlin'誰よりも愛してる
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '93':
   title: 僕のとなり
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '94':
   title: 12月、彼女は思う
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '95':
   title: うれしい今日です
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '96':
   title: ずっと想ってる
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '97':
   title: ポカポカのお日様
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '98':
   title: 星空の魔法
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '99':
   title: 少年、純情。
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '100':
   title: うさぎ
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '101':
   title: 眠る星の昨夜に
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '102':
   title: ホントだよ。
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '103':
   title: Heartの地球儀
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '104':
   title: 冬眠
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '105':
   title: 空がとっても青いから
   author: 名取 ちずる
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '106':
   title: BLACK JACK
   author: 手塚 治虫
   complete: false
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '107':
   title: 闇のパープル・アイ
   author: 篠原 千絵
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '108':
   title: のび太の魔界大冒険
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '109':
   title: ざ・ちぇんじ！
   author: 山内 直実
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '110':
   title: なんて素敵にジャパネスク
   author: 山内 直実
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '111':
   title: ぽっかぽか
   author: 深見 じゅん
   complete: false
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '112':
   title: 永遠の野原
   author: 逢坂 みえこ
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '113':
   title: ベル・エポック
   author: 逢坂 みえこ
   complete: true
+  created_at: 2007-09-23 11:33:25.000000000 +09:00
 '114':
   title: 薔薇のために
   author: 吉村 明美
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '115':
   title: Petshop of Horrors
   author: 秋乃 茉莉
   complete: true
+  created_at: 2005-05-03 00:38:09.000000000 +09:00
 '116':
   title: MONSTER
   author: 浦沢 直樹
   complete: true
+  created_at: 2005-02-06 02:39:36.000000000 +09:00
 '117':
   title: 天使なんかじゃない
   author: 矢沢 あい
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '118':
   title: ブラックジャックによろしく
   author: 佐藤 秀峰
   complete: true
+  created_at: 2007-11-26 15:09:25.000000000 +09:00
 '119':
   title: バカボンド
   author: 井上 雅彦
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '120':
   title: 名探偵コナン
   author: 青山 剛昌
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '121':
   title: まじっく快斗
   author: 青山 剛昌
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '122':
   title: スローステップ
   author: あだち 充
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '123':
   title: タッチ
   author: あだち 充
   complete: true
+  created_at: 2006-08-15 19:38:20.000000000 +09:00
 '124':
   title: 陽あたり良好！
   author: あだち 充
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '125':
   title: 犬夜叉
   author: 高橋 留美子
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '126':
   title: YAWARA!
   author: 浦沢 直樹
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '127':
   title: JIGORO!
   author: 浦沢 直樹
   complete: true
+  created_at: 2005-05-05 03:45:35.000000000 +09:00
 '128':
   title: キャッツ・アイ
   author: 北条 司
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '129':
   title: ウイングマン
   author: 桂 正和
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '130':
   title: あしたのジョー
   author: ちば てつや
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '131':
   title: うる星やつら
   author: 高橋 留美子
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '132':
   title: 逮捕しちゃうぞ
   author: 藤島 康介
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '133':
   title: ああっ女神様っ
   author: 藤島 康介
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '134':
   title: 七夕の国
   author: 岩明 均
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '135':
   title: ここはグリーン・ウッド
   author: 那州 雪絵
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '136':
   title: 恋のめまい愛の傷
   author: 一条 ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '137':
   title: 正しい恋愛のススメ
   author: 一条 ゆかり
   complete: true
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '138':
   title: ダンディーとわたし
   author: 山下 和美
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '139':
   title: 天才柳沢教授の生活
   author: 山下 和美
   complete: false
+  created_at: 2005-02-06 02:39:37.000000000 +09:00
 '140':
   title: アーシアン
   author: 高河 ゆん
   complete: false
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '141':
   title: 八神くんの家庭の事情
   author: 楠 桂
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '142':
   title: シークエンス
   author: みずき 健
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '143':
   title: N.G.Dreams
   author: みずき 健
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '144':
   title: 3月4月
   author: みずき 健
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '145':
   title: 高根平3丁目
   author: みずき 健
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '146':
   title: 亜未！ノンストップ
   author: 北川 みゆき
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '147':
   title: 空色のメロディ
   author: 水沢 めぐみ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '148':
   title: チャイム
   author: 水沢 めぐみ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '149':
   title: ダンシング
   author: 佐々木 潤子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '150':
   title: エース！
   author: 佐々木 潤子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '151':
   title: ××マーチング
   author: 大塚 由美
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '152':
   title: マインド・ゲーム
   author: 椎名 あゆみ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '153':
   title: ピーターパンの空
   author: 椎名 あゆみ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '154':
   title: 無敵のヴィーナス
   author: 椎名 あゆみ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '155':
   title: キャロットのとき
   author: 森本 里菜
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '156':
   title: ぶきような魔法使い
   author: 森本 里菜
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '157':
   title: バブルガム・KISS
   author: 大塚 由美
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '158':
   title: これからのシグナル
   author: 倉橋 えりか
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '159':
   title: スウィート・ベルベット
   author: 早坂 いあん
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '160':
   title: 「むじゃき」な関係
   author: 早坂 いあん
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '161':
   title: キュートな事情
   author: 早坂 いあん
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '162':
   title: エンジェル・ウォーズ
   author: 上田 美和
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '163':
   title: ひよこ時計PIPIPI
   author: 高瀬 綾
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '164':
   title: ぶらっでぃ・まりー
   author: 高瀬 綾
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '165':
   title: バレンタイン参観日
   author: 高瀬 綾
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '166':
   title: 流れ星ロマンス
   author: 高瀬 綾
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '167':
   title: 聖ルームメイト
   author: 高瀬 綾
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '168':
   title: ひまわり日記
   author: あさぎり 夕
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '169':
   title: アイ・BOY
   author: あさぎり 夕
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '170':
   title: 秘密のメロディ
   author: 倉森 明子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '171':
   title: 金魚の森
   author: 倉森 明子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '172':
   title: 白波の幻想
   author: 小花 美穂
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '173':
   title: せつないね
   author: 小花 美穂
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '174':
   title: この手をはなさない
   author: 小花 美穂
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '175':
   title: 吉祥天女
   author: 吉田 秋生
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '176':
   title: 小さな祈り
   author: 紡木 たく
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '177':
   title: 麒麟館グラフティー
   author: 吉村 明美
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '178':
   title: ハイスクールコネクション
   author: 山下 和美
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '179':
   title: SLAM DUNK (スラムダンク)
   author: 井上 雄彦
   complete: true
+  created_at: 2009-08-10 14:47:28.000000000 +09:00
 '180':
   title: 1/2FAIRY！
   author: 岡野 史佳
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '181':
   title: 奇脳粉荘へどうぞ
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '182':
   title: 隣のDOUBLE
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '183':
   title: 隣はSCRAMBLE
   author: なかじ 有紀
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '184':
   title: 可視光線
   author: やまざき 貴子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '185':
   title: 彼氏彼女の事情
   author: 津田 雅美
   complete: true
+  created_at: 2006-04-15 10:30:05.000000000 +09:00
 '186':
   title: ２２XX
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '187':
   title: 天使たちの進化論
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '188':
   title: ミルキーウェイ
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '189':
   title: MAGIC
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '190':
   title: 竜の眠る星
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '191':
   title: 月の子
   author: 清水 玲子
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '192':
   title: 荒野の天使ども
   author: ひかわ きょうこ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '193':
   title: 時間をとめて待っていて
   author: ひかわ きょうこ
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '194':
   title: ハイスクールオーラバスター・十戒
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '195':
   title: 天使はうまく踊れない
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '196':
   title: セイレーンの聖母
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '197':
   title: アーケイディア
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '198':
   title: PPMの卵
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '199':
   title: ジオラマボーイ
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:38.000000000 +09:00
 '200':
   title: ダークワンダー
   author: 杜 真琴
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '201':
   title: いちばんいい笑顔あげる！
   author: 新井 葉月
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '202':
   title: 役立たずな神様
   author: 新井 葉月
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '203':
   title: 心のスウィング
   author: 新井 葉月
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '204':
   title: 卒業
   author: あゆみ ゆい
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '205':
   title: はいからさんが通る
   author: 大和 和紀
   complete: false
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '206':
   title: はいからさんが通る 番外編
   author: 大和 和紀
   complete: true
+  created_at: 2005-05-05 03:45:03.000000000 +09:00
 '207':
   title: さよならのバランス
   author: 藤村 真理
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '208':
   title: マリンブルーの風に抱かれて
   author: 矢沢 あい
   complete: true
+  created_at: 2005-02-06 02:39:39.000000000 +09:00
 '209':
   title: 美味しんぼ
   author: 雁屋 哲
   complete: false
+  created_at: 2005-02-06 02:39:50.000000000 +09:00
 '210':
   title: ドリームス
   author: 川 三番地
   complete: false
+  created_at: 2007-01-20 22:18:29.000000000 +09:00
 '211':
   title: 沈黙の艦隊
   author: かわぐち かいじ
   complete: true
+  created_at: 2005-02-06 02:39:50.000000000 +09:00
 '212':
   title: ジパング
   author: かわぐち かいじ
   complete: true
+  created_at: 2012-08-27 10:58:09.000000000 +09:00
 '213':
   title: アカギ
   author: 福本 伸行
   complete: false
+  created_at: 2005-02-06 02:39:50.000000000 +09:00
 '214':
   title: 銀と金
   author: 福本 伸行
   complete: true
+  created_at: 2005-02-06 02:39:51.000000000 +09:00
 '215':
   title: 天
   author: 福本 伸行
   complete: true
+  created_at: 2005-10-15 00:01:35.000000000 +09:00
 '216':
   title: カイジ　黙示録
   author: 福本 伸行
   complete: true
+  created_at: 2007-01-20 22:15:38.000000000 +09:00
 '217':
   title: カイジ　破戒録
   author: 福本 伸行
   complete: true
+  created_at: 2007-01-20 22:15:02.000000000 +09:00
 '218':
   title: 東京大学物語
   author: 江川 達也
   complete: true
+  created_at: 2005-12-22 18:29:14.000000000 +09:00
 '219':
   title: ふたりエッチ
   author: 克 亜樹
   complete: false
+  created_at: 2005-02-06 02:39:51.000000000 +09:00
 '221':
   title: めぞん一刻
   author: 高橋 留美子
   complete: true
+  created_at: 2007-05-02 10:43:25.000000000 +09:00
 '222':
   title: 人間交差点
   author: 弘兼 憲史・矢島 正雄
   complete: false
+  created_at: 2005-02-06 02:52:47.000000000 +09:00
 '223':
   title: のび太の海底鬼岩城
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2005-02-12 04:35:22.000000000 +09:00
 '224':
   title: 幽★遊★白書
   author: 冨樫 義博
   complete: false
+  created_at: 2005-02-18 00:27:20.000000000 +09:00
 '225':
   title: エリア88
   author: 新谷 かおる
   complete: true
+  created_at: 2005-05-18 09:52:08.000000000 +09:00
 '226':
   title: きまぐれオレンジ☆ロード
   author: まつもと 泉
   complete: true
+  created_at: 2008-12-21 13:28:43.000000000 +09:00
 '227':
   title: ナイン
   author: あだち 充
   complete: true
+  created_at: 2005-02-12 04:38:43.000000000 +09:00
 '228':
   title: 寄生獣
   author: 岩明 均
   complete: true
+  created_at: 2005-02-18 00:31:15.000000000 +09:00
 '229':
   title: 風の谷のナウシカ
   author: 宮崎 駿
   complete: true
+  created_at: 2005-03-27 16:56:53.000000000 +09:00
 '230':
   title: 紅茶王子
   author: 山田 南平
   complete: true
+  created_at: 2005-05-05 12:17:00.000000000 +09:00
 '231':
   title: ゆず
   author: 須藤 真澄
   complete: true
+  created_at: 2005-05-05 12:16:24.000000000 +09:00
 '232':
   title: 人魚の森
   author: 高橋 留美子
   complete: true
+  created_at: 2005-08-16 23:18:32.000000000 +09:00
 '233':
   title: 人魚の傷
   author: 高橋 留美子
   complete: true
+  created_at: 2005-08-16 23:18:15.000000000 +09:00
 '234':
   title: 王子様といっしょ！
   author: 谷川 史子
   complete: true
+  created_at: 2005-12-24 19:17:40.000000000 +09:00
 '235':
   title: 銀ヤンマ
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:41:06.000000000 +09:00
 '236':
   title: 見上げれば通天閣
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:41:20.000000000 +09:00
 '237':
   title: 無頼な風　鉄
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:40:29.000000000 +09:00
 '238':
   title: あの人のトランペット
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:40:48.000000000 +09:00
 '239':
   title: ワニの初恋
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:40:58.000000000 +09:00
 '240':
   title: RUDE39
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:40:40.000000000 +09:00
 '259':
   title: 眠り姫Age
   author: おおや 和美
   complete: true
+  created_at: 2005-12-28 12:11:14.000000000 +09:00
 '242':
   title: いい・おんな
   author: 深見 じゅん
   complete: true
+  created_at: 2005-10-23 02:31:34.000000000 +09:00
 '243':
   title: おとぎ話つづく
   author: 深見 じゅん
   complete: true
+  created_at: 2005-10-23 02:31:45.000000000 +09:00
 '244':
   title: 南くんの恋人
   author: 内田 春菊
   complete: true
+  created_at: 2005-10-23 02:30:30.000000000 +09:00
 '245':
   title: 花ざかりの君たちへ
   author: 中条 比紗也
   complete: true
+  created_at: 2005-12-01 09:52:55.000000000 +09:00
 '246':
   title: 熱いぜ天馬！
   author: 福本 伸行
   complete: true
+  created_at: 2005-12-23 14:40:18.000000000 +09:00
 '247':
   title: 西村知美の天然マタニティ
   author: 野間 美由紀
   complete: true
+  created_at: 2005-10-23 02:30:08.000000000 +09:00
 '260':
   title: アリスの時間
   author: あさぎり 夕
   complete: true
+  created_at: 2005-12-28 12:10:41.000000000 +09:00
 '369':
   title: カイジ　賭博堕天録
   author: 福本 伸行
   complete: false
+  created_at: 2006-12-20 00:03:16.000000000 +09:00
 '251':
   title: おいしい関係
   author: 槇村 さとる
   complete: true
+  created_at: 2008-05-03 01:34:05.000000000 +09:00
 '252':
   title: いいひと
   author: 高橋 しん
   complete: true
+  created_at: 2009-02-03 16:43:15.000000000 +09:00
 '253':
   title: 名探偵コナン　世紀末の魔術師　上
   author: 青山 剛昌
   complete: true
+  created_at: 2005-12-05 01:35:55.000000000 +09:00
 '254':
   title: 名探偵コナン　世紀末の魔術師　下
   author: 青山 剛昌
   complete: true
+  created_at: 2005-12-05 01:35:41.000000000 +09:00
 '255':
   title: RESERVATION Please
   author: 細野 不二彦
   complete: true
+  created_at: 2005-12-28 12:10:21.000000000 +09:00
 '256':
   title: 魔法を信じるかい？
   author: 谷川 史子
   complete: true
+  created_at: 2005-12-24 19:18:00.000000000 +09:00
 '261':
   title: チョコレート・クリスマス
   author: 武内 直子
   complete: true
+  created_at: 2005-12-28 16:08:17.000000000 +09:00
 '262':
   title: Cherry!
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 12:24:11.000000000 +09:00
 '263':
   title: 生徒諸君！
   author: 庄司 陽子
   complete: true
+  created_at: 2005-12-28 11:49:17.000000000 +09:00
 '264':
   title: レタスと剣
   author: 北川 みゆき
   complete: true
+  created_at: 2005-12-28 16:08:40.000000000 +09:00
 '265':
   title: 葵学園プレイタイム
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:08:35.000000000 +09:00
 '266':
   title: 葵学園スノータイム
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:09:09.000000000 +09:00
 '267':
   title: 葵学園メロディライン
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:09:41.000000000 +09:00
 '268':
   title: 葵学園シンシアリー
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:10:05.000000000 +09:00
 '269':
   title: 葵学園オルゴール
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:10:31.000000000 +09:00
 '270':
   title: 葵学園ドリーマー
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 11:10:57.000000000 +09:00
 '271':
   title: フラワープロジェクト
   author: さいきなおこ
   complete: false
+  created_at: 2005-12-28 11:11:42.000000000 +09:00
 '272':
   title: あなたとスキャンダル
   author: 椎名 あゆみ
   complete: true
+  created_at: 2005-12-28 12:27:15.000000000 +09:00
 '273':
   title: 東京生まれにゃこたえるゼ！
   author: 鈴木 由美子
   complete: true
+  created_at: 2005-12-28 12:24:46.000000000 +09:00
 '274':
   title: カンナさん大成功です！
   author: 鈴木 由美子
   complete: false
+  created_at: 2005-12-28 12:24:55.000000000 +09:00
 '275':
   title: アイツ白書
   author: 定岡 美絵
   complete: true
+  created_at: 2005-12-28 12:27:25.000000000 +09:00
 '276':
   title: 疑問符なんていらない
   author: 定岡 美絵
   complete: true
+  created_at: 2005-12-28 12:27:35.000000000 +09:00
 '289':
   title: チャンスをちょうだい！
   author: 清水 真澄
   complete: true
+  created_at: 2005-12-28 15:11:20.000000000 +09:00
 '278':
   title: ビシバシ純情ボーイ
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 12:24:22.000000000 +09:00
 '279':
   title: 卒業まで1000日
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 12:24:01.000000000 +09:00
 '281':
   title: はちまきカルテット
   author: かやまゆみ
   complete: true
+  created_at: 2005-12-28 11:28:42.000000000 +09:00
 '282':
   title: 子ねこちゃんメトロノーム
   author: 八木 ちあき
   complete: true
+  created_at: 2005-12-28 12:25:12.000000000 +09:00
 '283':
   title: 青春の役立たず
   author: 池沢 理美
   complete: true
+  created_at: 2005-12-28 12:23:38.000000000 +09:00
 '284':
   title: 夏がいそいでる
   author: 池沢 理美
   complete: true
+  created_at: 2005-12-28 12:23:48.000000000 +09:00
 '285':
   title: 「高校いちねんせい」
   author: 早川 いあん
   complete: true
+  created_at: 2005-12-28 11:51:08.000000000 +09:00
 '286':
   title: キレルぜ！青春
   author: 池沢 理美
   complete: true
+  created_at: 2005-12-28 12:23:27.000000000 +09:00
 '288':
   title: 君におくるエール
   author: あいざわ 遥
   complete: true
+  created_at: 2005-12-28 16:10:07.000000000 +09:00
 '292':
   title: ミンミン！
   author: あさぎり 夕
   complete: true
+  created_at: 2006-01-07 18:29:20.000000000 +09:00
 '291':
   title: 時をかけた少女たち
   author: かやまゆみ
   complete: false
+  created_at: 2005-12-28 14:07:40.000000000 +09:00
 '293':
   title: スプーンおばさん
   author: プリョイセン
   complete: false
+  created_at: 2005-12-28 14:13:35.000000000 +09:00
 '294':
   title: えんじぇる・まじっく
   author: あゆみ ゆい
   complete: true
+  created_at: 2006-04-15 20:10:09.000000000 +09:00
 '295':
   title: ハンサムな彼女
   author: 吉住 渉
   complete: true
+  created_at: 2006-04-29 20:18:23.000000000 +09:00
 '296':
   title: 降っても晴れても
   author: 藤村 真理
   complete: true
+  created_at: 2005-12-28 16:09:45.000000000 +09:00
 '297':
   title: フリーザーより愛をこめて
   author: 藤村 真理
   complete: true
+  created_at: 2005-12-28 16:09:36.000000000 +09:00
 '298':
   title: SINGLES
   author: 藤村 真理
   complete: true
+  created_at: 2005-12-28 16:09:18.000000000 +09:00
 '309':
   title: ONE−愛になりたい−
   author: 宮川 匡代
   complete: true
+  created_at: 2006-01-02 13:20:50.000000000 +09:00
 '300':
   title: 上級生
   author: 宮川 匡代
   complete: true
+  created_at: 2006-04-29 20:18:03.000000000 +09:00
 '301':
   title: エチュード−Etude−
   author: 宮川 匡代
   complete: true
+  created_at: 2005-12-28 16:11:32.000000000 +09:00
 '302':
   title: トゥインクルトゥインクルハッピースター
   author: 神田 みらの
   complete: true
+  created_at: 2005-12-29 07:56:07.000000000 +09:00
 '303':
   title: 君がここにいる
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 15:22:08.000000000 +09:00
 '304':
   title: まりあ
   author: 武内 直子
   complete: true
+  created_at: 2005-12-28 16:08:03.000000000 +09:00
 '305':
   title: 時計じかけのエトランゼ
   author: あゆみ ゆい
   complete: true
+  created_at: 2006-04-15 20:09:50.000000000 +09:00
 '306':
   title: うぇるかむ！
   author: あゆみ ゆい
   complete: true
+  created_at: 2006-04-15 20:10:18.000000000 +09:00
 '307':
   title: 太陽にスマッシュ！
   author: あゆみ ゆい
   complete: true
+  created_at: 2006-04-15 20:09:40.000000000 +09:00
 '308':
   title: 202号室にご用心
   author: かやまゆみ
   complete: true
+  created_at: 2005-12-28 14:32:03.000000000 +09:00
 '310':
   title: キッスは瞳にして
   author: 上田 倫子
   complete: true
+  created_at: 2005-12-28 16:12:20.000000000 +09:00
 '311':
   title: あなたに逢うまで…
   author: 藤村 真理
   complete: true
+  created_at: 2005-12-28 16:09:27.000000000 +09:00
 '312':
   title: ＡＭＮＥＳＩＡ　アムネジア
   author: おおや 和美
   complete: true
+  created_at: 2005-12-28 16:10:46.000000000 +09:00
 '313':
   title: LUCKY　CRAZY　すーぱーすたあ
   author: おおや 和美
   complete: true
+  created_at: 2005-12-28 16:10:27.000000000 +09:00
 '314':
   title: BOYS　IN　HEAVEN　ボーイズ　イン　ヘブン
   author: おおや 和美
   complete: true
+  created_at: 2005-12-28 16:10:18.000000000 +09:00
 '315':
   title: 二階のA-BOY
   author: おおや 和美
   complete: true
+  created_at: 2005-12-28 16:10:37.000000000 +09:00
 '316':
   title: 瞳のラビリンス
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 15:21:53.000000000 +09:00
 '317':
   title: B-KIDSでいこう！
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 15:11:38.000000000 +09:00
 '318':
   title: ♂と♀の方程式
   author: すぎ恵美子
   complete: true
+  created_at: 2005-12-28 14:48:21.000000000 +09:00
 '319':
   title: Cherryのまんま
   author: すぎ恵美子
   complete: true
+  created_at: 2005-12-28 14:54:52.000000000 +09:00
 '320':
   title: エンジェル
   author: 高瀬 由香
   complete: true
+  created_at: 2005-12-29 07:56:44.000000000 +09:00
 '321':
   title: ぷりんせすARMY
   author: 北川 みゆき
   complete: true
+  created_at: 2005-12-28 16:08:29.000000000 +09:00
 '322':
   title: ミラクルガールズ
   author: 秋元 奈美
   complete: true
+  created_at: 2005-12-28 16:11:56.000000000 +09:00
 '323':
   title: マシュマロ魔法
   author: 河村 美久
   complete: true
+  created_at: 2006-04-15 20:11:11.000000000 +09:00
 '324':
   title: ポップコーンをほおばって
   author: 津村 かおり
   complete: true
+  created_at: 2006-09-18 01:22:14.000000000 +09:00
 '325':
   title: 前略・ミルクハウス
   author: 川原 由美子
   complete: true
+  created_at: 2005-12-28 15:21:37.000000000 +09:00
 '326':
   title: アイドルを探せ
   author: 吉田 まゆみ
   complete: true
+  created_at: 2006-06-11 11:44:20.000000000 +09:00
 '327':
   title: アイドルを探せ番外編
   author: 吉田 まゆみ
   complete: true
+  created_at: 2006-06-11 11:44:34.000000000 +09:00
 '328':
   title: 真夏のEDEN−楽園−
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 15:24:35.000000000 +09:00
 '329':
   title: 絶体絶命
   author: さいきなおこ
   complete: true
+  created_at: 2005-12-28 15:25:20.000000000 +09:00
 '330':
   title: 18は夢の頃
   author: 宮川 匡代
   complete: true
+  created_at: 2005-12-28 16:11:23.000000000 +09:00
 '331':
   title: 時を止めて
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 16:05:59.000000000 +09:00
 '332':
   title: 幾千年ーかなたへの想いー
   author: 折原 みと
   complete: true
+  created_at: 2005-12-28 16:05:49.000000000 +09:00
 '333':
   title: ときめきの法則
   author: あゆみ ゆい
   complete: true
+  created_at: 2006-04-15 20:09:59.000000000 +09:00
 '334':
   title: もしかしてヴァンプ
   author: 橘 裕
   complete: true
+  created_at: 2006-04-29 20:17:46.000000000 +09:00
 '335':
   title: みゆき
   author: あだち 充
   complete: true
+  created_at: 2007-09-23 11:31:45.000000000 +09:00
 '336':
   title: 金田一少年の事件簿　Case
   author: さとうふみや
   complete: false
+  created_at: 2006-01-02 13:26:45.000000000 +09:00
 '337':
   title: 金田一少年の事件簿　短編集
   author: さとうふみや
   complete: false
+  created_at: 2006-01-02 13:32:42.000000000 +09:00
 '338':
   title: 月下の棋士
   author: 能條 純一
   complete: false
+  created_at: 2006-01-07 18:30:35.000000000 +09:00
 '340':
   title: ハッピー・マニア
   author: 安野 モヨコ
   complete: true
+  created_at: 2006-11-24 14:23:15.000000000 +09:00
 '341':
   title: ダービージョッキー
   author: 一色 登希彦
   complete: false
+  created_at: 2006-07-01 11:06:43.000000000 +09:00
 '342':
   title: オトナになる方法
   author: 山田 南平
   complete: true
+  created_at: 2006-11-24 14:25:01.000000000 +09:00
 '343':
   title: おーい！竜馬
   author: 小山  ゆう
   complete: true
+  created_at: 2009-03-31 23:07:49.000000000 +09:00
 '344':
   title: Happy!
   author: 浦沢 直樹
   complete: true
+  created_at: 2007-04-22 15:49:32.000000000 +09:00
 '348':
   title: ドラえもん　スネ夫編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-04-22 21:11:39.000000000 +09:00
 '346':
   title: ドラえもん　恋愛編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-04-22 21:09:47.000000000 +09:00
 '347':
   title: ドラえもん　爆笑編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-04-22 21:10:30.000000000 +09:00
 '349':
   title: ドラえもん　恐怖編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-01 20:23:09.000000000 +09:00
 '350':
   title: りびんぐゲーム
   author: 星里 もちる
   complete: true
+  created_at: 2006-06-03 07:54:29.000000000 +09:00
 '351':
   title: ありゃ馬こりゃ馬
   author: 土田 世紀
   complete: true
+  created_at: 2006-08-31 22:31:27.000000000 +09:00
 '352':
   title: Do Piano
   author: 
   complete: false
+  created_at: 2006-05-01 20:20:26.000000000 +09:00
 '353':
   title: ドラえもん　恐竜編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-01 20:22:48.000000000 +09:00
 '354':
   title: ドラえもん　ジャイアン編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-01 20:24:31.000000000 +09:00
 '355':
   title: ドラえもん　のび太の大魔境
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-01 20:25:09.000000000 +09:00
 '356':
   title: 花より男子
   author: 神尾 葉子
   complete: true
+  created_at: 2011-07-09 17:15:25.000000000 +09:00
 '357':
   title: ドラえもん　0点・家出編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-07 18:58:12.000000000 +09:00
 '358':
   title: ドラえもん　むかし話編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-07 18:58:43.000000000 +09:00
 '359':
   title: ドラえもん　感動編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-21 23:51:24.000000000 +09:00
 '360':
   title: ドラえもん　エスプリ編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-21 23:49:02.000000000 +09:00
 '361':
   title: ドラえもん　ファンタジー編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2006-05-21 23:49:36.000000000 +09:00
 '362':
   title: 春風にようこそ
   author: 福本 伸行
   complete: true
+  created_at: 2006-07-01 11:06:37.000000000 +09:00
 '364':
   title: Dr.コトー診療所
   author: 山田 貴敏
   complete: false
+  created_at: 2006-08-07 23:36:52.000000000 +09:00
 '365':
   title: 世界でいちばん優しい音楽
   author: 小沢 真理
   complete: true
+  created_at: 2007-04-16 16:08:11.000000000 +09:00
 '366':
   title: 太陽の黙示録
   author: かわぐち かいじ
   complete: true
+  created_at: 2011-07-18 19:52:20.000000000 +09:00
 '367':
   title: AKIRA
   author: 大友 克洋
   complete: false
+  created_at: 2006-08-22 13:58:31.000000000 +09:00
 '368':
   title: 新ゴーマニズム宣言
   author: 小林 よしのり
   complete: false
+  created_at: 2006-09-03 13:14:17.000000000 +09:00
 '370':
   title: 月下美人
   author: ひうら さとる
   complete: true
+  created_at: 2007-01-21 15:00:00.000000000 +09:00
 '371':
   title: オマタかおる
   author: 鈴木 由美子
   complete: true
+  created_at: 2007-01-21 15:00:05.000000000 +09:00
 '372':
   title: ごくせん
   author: 森本 梢子
   complete: true
+  created_at: 2010-12-07 14:22:43.000000000 +09:00
 '375':
   title: 課長 島耕作
   author: 弘兼 憲史
   complete: true
+  created_at: 2011-07-09 16:54:25.000000000 +09:00
 '374':
   title: 瑠璃の波風
   author: かわぐち かいじ
   complete: true
+  created_at: 2012-05-03 22:28:45.000000000 +09:00
 '376':
   title: 海の闇、月の影
   author: 篠原 千絵
   complete: true
+  created_at: 2007-01-21 15:00:08.000000000 +09:00
 '377':
   title: H2
   author: あだち 充
   complete: false
+  created_at: 2007-01-21 15:00:09.000000000 +09:00
 '378':
   title: ドラえもん　未来・宇宙編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2007-01-02 08:25:59.000000000 +09:00
 '381':
   title: ドラえもん　しずか編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2007-01-02 08:27:35.000000000 +09:00
 '380':
   title: ドラえもん　ドラミ編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2007-01-02 08:26:50.000000000 +09:00
 '382':
   title: 17歳のリアル
   author: かわち ゆかり
   complete: true
+  created_at: 2007-01-22 01:31:40.000000000 +09:00
 '391':
   title: ドラえもん　ロボット編
   author: 藤子・F・不二雄
   complete: true
+  created_at: 2007-04-22 09:41:42.000000000 +09:00
 '383':
   title: 空飛ぶペンギン
   author: 秋里 和国
   complete: true
+  created_at: 2007-09-16 20:11:34.000000000 +09:00
 '386':
   title: すっとんきょーな兄妹
   author: 斉藤 倫
   complete: true
+  created_at: 2007-11-28 22:59:42.000000000 +09:00
 '387':
   title: 下弦の月
   author: 矢沢 あい
   complete: true
+  created_at: 2007-09-16 20:09:05.000000000 +09:00
 '389':
   title: 前へ・・・！
   author: 福本 伸行
   complete: true
+  created_at: 2007-09-16 20:11:31.000000000 +09:00
 '390':
   title: 熱いぜ辺ちゃん
   author: 福本 伸行
   complete: false
+  created_at: 2007-05-04 22:44:15.000000000 +09:00
 '392':
   title: 地球へ…
   author: 竹宮 惠子
   complete: true
+  created_at: 2007-05-02 10:47:19.000000000 +09:00
 '393':
   title: 君の手がささやいている−最終章
   author: 軽部 潤子
   complete: true
+  created_at: 2007-09-16 20:11:25.000000000 +09:00
 '394':
   title: あひるの王子さま
   author: 森永 あい
   complete: true
+  created_at: 2007-09-16 20:11:27.000000000 +09:00
 '395':
   title: 山田太郎ものがたり
   author: 森永 あい
   complete: true
+  created_at: 2007-11-28 23:02:56.000000000 +09:00
 '396':
   title: おまけの小林クン
   author: 森生 まさみ
   complete: true
+  created_at: 2007-09-16 20:11:52.000000000 +09:00
 '397':
   title: もやしもん
   author: 石川 雅之
   complete: false
+  created_at: 2007-09-16 20:11:49.000000000 +09:00
 '398':
   title: ナニワ金融道
   author: 青木 雄二
   complete: true
+  created_at: 2012-05-03 22:36:56.000000000 +09:00
 '399':
   title: 恋愛カタログ
   author: 永田 正美
   complete: true
+  created_at: 2008-06-15 00:25:13.000000000 +09:00
 '401':
   title: NANA−ナナ−
   author: 矢沢 あい
   complete: false
+  created_at: 2007-09-16 19:57:59.000000000 +09:00
 '402':
   title: きみはペット
   author: 小川 彌生
   complete: true
+  created_at: 2008-11-13 23:37:47.000000000 +09:00
 '403':
   title: のだめカンタービレ
   author: 二ノ宮 知子
   complete: false
+  created_at: 2008-06-11 21:11:44.000000000 +09:00
 '404':
   title: サラリーマン金太郎
   author: 本宮 ひろ志
   complete: true
+  created_at: 2012-05-03 22:29:41.000000000 +09:00
 '405':
   title: ハツカレ
   author: 桃森 ミヨシ
   complete: true
+  created_at: 2008-10-10 00:10:11.000000000 +09:00
 '406':
   title: 告白
   author: かわぐち かいじ
   complete: true
+  created_at: 2008-06-11 21:11:46.000000000 +09:00
 '407':
   title: 週刊　石川雅之
   author: 石川 雅之
   complete: true
+  created_at: 2008-06-11 21:11:47.000000000 +09:00
 '408':
   title: 生存
   author: かわぐち かいじ
   complete: true
+  created_at: 2010-02-22 14:26:06.000000000 +09:00
 '409':
   title: 風の暦
   author: 
   complete: true
+  created_at: 2007-11-26 15:13:37.000000000 +09:00
 '410':
   title: ピーチガール
   author: 上田 美和
   complete: true
+  created_at: 2008-06-11 21:11:42.000000000 +09:00
 '411':
   title: Paradise Kiss
   author: 矢沢 あい
   complete: true
+  created_at: 2008-06-11 21:11:36.000000000 +09:00
 '412':
   title: にっぽん競馬伝
   author: あべ 善太
   complete: false
+  created_at: 2008-06-11 21:11:37.000000000 +09:00
 '413':
   title: 「戦争漫画」傑作選
   author: 手塚 治虫
   complete: false
+  created_at: 2007-12-02 21:39:30.000000000 +09:00
 '414':
   title: 「瀕死の地球を救え」
   author: 手塚 治虫
   complete: false
+  created_at: 2007-12-02 22:19:12.000000000 +09:00
 '415':
   title: HYPER BABY
   author: おおや 和美
   complete: true
+  created_at: 2008-06-11 21:11:38.000000000 +09:00
 '416':
   title: 働きマン
   author: 安野 モヨコ
   complete: false
+  created_at: 2008-06-11 21:11:39.000000000 +09:00
 '417':
   title: 1orW
   author: 高橋 留美子
   complete: true
+  created_at: 2008-06-11 21:11:40.000000000 +09:00
 '418':
   title: ご近所物語
   author: 矢沢 あい
   complete: true
+  created_at: 2008-06-11 21:11:41.000000000 +09:00
 '419':
   title: ドラゴン桜
   author: 三田 紀房
   complete: false
+  created_at: 2008-02-09 07:59:47.000000000 +09:00
 '420':
   title: ベルセルク (コンビニ版)
   author: 三浦 建太郎
   complete: true
+  created_at: 2008-09-21 21:02:45.000000000 +09:00
 '421':
   title: わたしがママよ
   author: 森本 梢子
   complete: true
+  created_at: 2008-06-11 21:11:29.000000000 +09:00
 '422':
   title: 国が燃える
   author: 本宮 ひろ志
   complete: false
+  created_at: 2008-06-11 21:11:31.000000000 +09:00
 '423':
   title: 黒沢
   author: 福本 伸行
   complete: false
+  created_at: 2008-06-11 21:11:32.000000000 +09:00
 '424':
   title: ビーナスは片想い
   author: なかじ 有紀
   complete: true
+  created_at: 2008-06-11 21:11:34.000000000 +09:00
 '425':
   title: イキにやろうぜイキによ
   author: 聖千秋
   complete: true
+  created_at: 2008-02-26 13:37:09.000000000 +09:00
 '426':
   title: 霊感商法株式会社
   author: 秋乃茉莉
   complete: false
+  created_at: 2008-02-26 13:38:30.000000000 +09:00
 '430':
   title: 幕末純愛伝説〜時をかけた少女たち〜
   author: かやまゆみ
   complete: true
+  created_at: 2008-03-21 23:09:28.000000000 +09:00
 '428':
   title: ガラスの仮面
   author: 美内 すずえ
   complete: false
+  created_at: 2008-06-11 21:11:25.000000000 +09:00
 '429':
   title: あさきゆめみし
   author: 大和 和紀
   complete: true
+  created_at: 2010-07-17 14:39:05.000000000 +09:00
 '431':
   title: 幕末青春伝説〜時をかけた少女たち・新撰組編〜
   author: かやまゆみ
   complete: true
+  created_at: 2008-03-21 23:10:28.000000000 +09:00
 '432':
   title: 時をかけた少女たち　平安〜鎌倉編
   author: かやまゆみ
   complete: true
+  created_at: 2008-03-21 23:11:35.000000000 +09:00
 '433':
   title: 時をかけた少女たち　室町編
   author: かやまゆみ
   complete: true
+  created_at: 2008-03-21 23:11:57.000000000 +09:00
 '434':
   title: 好きしか知らない
   author: 宮川 匡代
   complete: false
+  created_at: 2008-06-11 21:11:21.000000000 +09:00
 '435':
   title: Friends
   author: 真柴 ひろみ
   complete: true
+  created_at: 2009-11-09 10:36:14.000000000 +09:00
 '436':
   title: HOTMAN
   author: きたがわ 翔
   complete: true
+  created_at: 2012-05-28 10:38:28.000000000 +09:00
 '438':
   title: 夏子の酒
   author: 尾瀬 あきら
   complete: false
+  created_at: 2008-12-06 20:14:53.000000000 +09:00
 '439':
   title: 永沢君
   author: さくら ももこ
   complete: true
+  created_at: 2008-08-06 11:01:51.000000000 +09:00
 '440':
   title: 金田一少年の事件簿　吸血鬼伝説殺人事件
   author: さとうふみや
   complete: false
+  created_at: 2008-08-06 11:06:29.000000000 +09:00
 '441':
   title: ライフ
   author: すえのぶけいこ
   complete: true
+  created_at: 2009-11-09 10:35:21.000000000 +09:00
 '442':
   title: オセロ
   author: 池沢 理美
   complete: true
+  created_at: 2009-11-09 10:36:00.000000000 +09:00
 '444':
   title: 雀鬼サマへの道
   author: 谷口　亜夢
   complete: false
+  created_at: 2008-12-16 14:17:55.000000000 +09:00
 '445':
   title: ハッピー・トゥモロー
   author: すえのぶけいこ
   complete: true
+  created_at: 2008-12-16 14:19:11.000000000 +09:00
 '454':
   title: Pの悲劇
   author: 高橋留美子
   complete: true
+  created_at: 2009-02-13 14:52:05.000000000 +09:00
 '448':
   title: ビタミン
   author: すえのぶけいこ
   complete: true
+  created_at: 2008-12-16 14:20:54.000000000 +09:00
 '449':
   title: ぐるぐるポンちゃん−おかわり
   author: 池沢　理美
   complete: false
+  created_at: 2008-12-16 14:21:55.000000000 +09:00
 '452':
   title: パーマン
   author: 藤子・F・不二雄
   complete: false
+  created_at: 2008-12-27 11:34:17.000000000 +09:00
 '451':
   title: 光とともに…自閉症児を抱えて
   author: 戸部けいこ
   complete: false
+  created_at: 2008-12-16 14:22:37.000000000 +09:00
 '453':
   title: 医龍
   author: 乃木坂太郎
   complete: false
+  created_at: 2009-02-05 14:37:32.000000000 +09:00
 '455':
   title: 蒼の封印
   author: 篠原 千絵
   complete: true
+  created_at: 2009-04-29 12:31:47.000000000 +09:00
 '456':
   title: プルートウ
   author: 浦沢 直樹
   complete: true
+  created_at: 2010-12-07 14:21:23.000000000 +09:00
 '457':
   title: 国立博物館物語
   author: 岡崎二郎
   complete: false
+  created_at: 2009-02-13 14:57:48.000000000 +09:00
 '458':
   title: 砂時計
   author: 芦原 妃名子
   complete: true
+  created_at: 2009-09-17 14:15:49.000000000 +09:00
 '459':
   title: 自虐の詩
   author: 業田 良家
   complete: true
+  created_at: 2009-04-29 12:33:30.000000000 +09:00
 '460':
   title: 洗礼
   author: 楳図 かずお
   complete: true
+  created_at: 2009-05-16 19:29:11.000000000 +09:00
 '461':
   title: デビルマン
   author: 永井 豪
   complete: true
+  created_at: 2009-12-05 00:41:12.000000000 +09:00
 '462':
   title: ブルーホール
   author: 星野 之宣
   complete: true
+  created_at: 2009-05-17 17:59:30.000000000 +09:00
 '463':
   title: 裏ピーチガール
   author: 上田美和
   complete: true
+  created_at: 2009-11-09 10:36:25.000000000 +09:00
 '464':
   title: ホタルノヒカリ
   author: ひうらさとる
   complete: true
+  created_at: 2010-07-17 14:32:14.000000000 +09:00
 '465':
   title: 最終兵器彼女
   author: 高橋 しん
   complete: true
+  created_at: 2009-09-12 14:47:45.000000000 +09:00
 '466':
   title: 新ブラックジャックによろしく
   author: 佐藤秀峰
   complete: false
+  created_at: 2009-07-05 15:45:09.000000000 +09:00
 '467':
   title: 諸星大二郎自薦短編集 汝、神になれ鬼になれ
   author: 諸星 大二郎
   complete: true
+  created_at: 2009-08-02 00:07:39.000000000 +09:00
 '468':
   title: 諸星大二郎自薦短編集 彼方より
   author: 諸星 大二郎
   complete: true
+  created_at: 2009-08-02 00:07:15.000000000 +09:00
 '469':
   title: わたしは真悟
   author: 楳図 かずお
   complete: true
+  created_at: 2010-05-29 11:45:13.000000000 +09:00
 '470':
   title: 数学ガール
   author: 日坂 水柯
   complete: true
+  created_at: 2009-08-30 22:18:20.000000000 +09:00
 '471':
   title: 鉄コン筋クリート
   author: 松本 大洋
   complete: true
+  created_at: 2010-10-03 00:47:34.000000000 +09:00
 '472':
   title: 暗黒神話
   author: 諸星 大二郎
   complete: true
+  created_at: 2009-09-12 14:46:24.000000000 +09:00
 '473':
   title: 孔子暗黒伝
   author: 諸星 大二郎
   complete: true
+  created_at: 2009-09-12 14:47:19.000000000 +09:00
 '474':
   title: 月と湖
   author: 芦原妃名子
   complete: true
+  created_at: 2009-09-17 14:18:12.000000000 +09:00
 '475':
   title: 蝶々雲
   author: 芦原妃名子
   complete: true
+  created_at: 2009-09-17 14:19:01.000000000 +09:00
 '476':
   title: るろうに剣心
   author: 和月 伸宏
   complete: true
+  created_at: 2009-09-24 00:00:08.000000000 +09:00
 '477':
   title: ヨウスケの奇妙な世界
   author: 高橋 葉介
   complete: false
+  created_at: 2009-09-24 00:00:34.000000000 +09:00
 '478':
   title: 夢幻紳士 冒険活劇篇
   author: 高橋 葉介
   complete: false
+  created_at: 2009-09-24 00:01:40.000000000 +09:00
 '479':
   title: 壁男
   author: 諸星 大二郎
   complete: true
+  created_at: 2009-09-24 00:02:15.000000000 +09:00
 '480':
   title: 特攻の島
   author: 佐藤秀峰
   complete: false
+  created_at: 2009-10-12 13:30:53.000000000 +09:00
 '481':
   title: 20歳のエンゲージ
   author: 真柴ひろみ
   complete: true
+  created_at: 2009-10-12 13:32:36.000000000 +09:00
 '482':
   title: 絶対彼氏。
   author: 渡瀬悠宇
   complete: true
+  created_at: 2009-10-12 13:35:24.000000000 +09:00
 '483':
   title: ハッピー！
   author: 波間信子
   complete: false
+  created_at: 2009-10-12 13:37:08.000000000 +09:00
 '484':
   title: 伝染るんです。
   author: 吉田 戦車
   complete: false
+  created_at: 2009-10-17 21:02:52.000000000 +09:00
 '485':
   title: リュウの道
   author: 石ノ森 章太郎
   complete: false
+  created_at: 2009-12-05 00:40:15.000000000 +09:00
 '486':
   title: 20世紀少年
   author: 浦沢 直樹
   complete: true
+  created_at: 2010-08-15 16:01:55.000000000 +09:00
 '487':
   title: 研修医なな子
   author: 森本梢子
   complete: true
+  created_at: 2010-02-22 14:25:17.000000000 +09:00
 '488':
   title: サイコドクター
   author: 亜樹　直/的場　健
   complete: false
+  created_at: 2010-02-22 14:27:42.000000000 +09:00
 '489':
   title: 京大M1物語
   author: 稲井 雅人
   complete: false
+  created_at: 2010-06-10 10:29:04.000000000 +09:00
 '490':
   title: くじらの親子
   author: くりた 陸
   complete: true
+  created_at: 2012-05-28 10:37:06.000000000 +09:00
 '491':
   title: x 細胞は深く息をする
   author: やまあき 道屯
   complete: true
+  created_at: 2010-04-20 08:21:07.000000000 +09:00
 '492':
   title: ラフ
   author: あだち充
   complete: false
+  created_at: 2010-08-14 05:36:15.000000000 +09:00
 '493':
   title: キャットストリート
   author: 神尾葉子
   complete: false
+  created_at: 2010-08-14 05:37:05.000000000 +09:00
 '494':
   title: 21世紀少年
   author: 浦沢直樹
   complete: true
+  created_at: 2010-08-15 16:01:39.000000000 +09:00
 '495':
   title: チャンネルはそのまま
   author: 佐々木倫子
   complete: false
+  created_at: 2010-08-15 16:02:55.000000000 +09:00
 '496':
   title: 新Petshop Horrors
   author: 秋乃茉莉
   complete: false
+  created_at: 2010-08-15 16:04:08.000000000 +09:00
 '497':
   title: 積極
   author: 谷川史子
   complete: true
+  created_at: 2010-08-15 16:06:55.000000000 +09:00
 '498':
   title: 太陽の黙示録　建国編
   author: かわぐちかいじ
   complete: false
+  created_at: 2010-08-15 16:08:40.000000000 +09:00
 '499':
   title: キャンディ　ライフ
   author: 小川彌生
   complete: true
+  created_at: 2010-08-15 16:10:03.000000000 +09:00
 '500':
   title: だんだら
   author: きら
   complete: true
+  created_at: 2010-08-15 16:10:23.000000000 +09:00
 '501':
   title: 斉藤さん
   author: 小田ゆうあ
   complete: false
+  created_at: 2010-08-15 17:48:05.000000000 +09:00
 '502':
   title: サラリーマン金太郎　マネーウォーズ編
   author: 本宮ひろ志
   complete: true
+  created_at: 2012-05-03 22:31:21.000000000 +09:00
 '503':
   title: サイコドクター　楷恭介
   author: 亜樹直
   complete: false
+  created_at: 2010-08-15 17:51:48.000000000 +09:00
 '504':
   title: ロマンチックください
   author: 一条ゆかり
   complete: false
+  created_at: 2010-08-15 17:55:30.000000000 +09:00
 '505':
   title: 半神
   author: 萩尾 望都
   complete: true
+  created_at: 2010-09-05 02:20:49.000000000 +09:00
 '506':
   title: A-A’
   author: 萩尾 望都
   complete: true
+  created_at: 2010-09-05 02:21:42.000000000 +09:00
 '507':
   title: だいすき
   author: 愛本みずほ
   complete: false
+  created_at: 2011-03-05 11:07:28.000000000 +09:00
 '508':
   title: ニコニコ日記
   author: 小沢真理
   complete: false
+  created_at: 2011-03-05 11:08:12.000000000 +09:00
 '509':
   title: イマジン
   author: 槇村さとる
   complete: false
+  created_at: 2011-03-05 11:08:58.000000000 +09:00
 '510':
   title: ワシズ
   author: 原恵一郎
   complete: false
+  created_at: 2011-03-05 11:09:30.000000000 +09:00
 '511':
   title: 男と女の生きざま編
   author: 弘兼 憲史
   complete: true
+  created_at: 2011-03-05 11:11:25.000000000 +09:00
 '512':
   title: よみがえる青春編
   author: 弘兼 憲史
   complete: true
+  created_at: 2011-03-05 11:11:54.000000000 +09:00
 '513':
   title: The・かぼちゃワイン
   author: 三浦 みつる
   complete: false
+  created_at: 2011-05-30 00:29:06.000000000 +09:00
 '514':
   title: 新サラリーマン金太郎
   author: 本宮ひろ志
   complete: false
+  created_at: 2011-07-09 17:07:33.000000000 +09:00
 '515':
   title: 取締役　島耕作
   author: 弘兼憲史
   complete: true
+  created_at: 2012-05-03 21:53:52.000000000 +09:00
 '516':
   title: 部長　島耕作
   author: 弘兼憲史
   complete: true
+  created_at: 2011-09-04 23:52:46.000000000 +09:00
 '517':
   title: イマジン29
   author: 槇村さとる
   complete: false
+  created_at: 2011-07-18 13:58:31.000000000 +09:00
 '518':
   title: 海猿
   author: 佐藤秀峰
   complete: false
+  created_at: 2011-07-18 13:59:12.000000000 +09:00
 '519':
   title: 総理の椅子
   author: 国友やすゆき
   complete: false
+  created_at: 2011-07-18 14:03:47.000000000 +09:00
 '520':
   title: イキガミ
   author: 間瀬元朗
   complete: false
+  created_at: 2011-07-18 19:56:03.000000000 +09:00
 '521':
   title: グリム童話
   author: 
   complete: true
+  created_at: 2011-09-04 23:37:41.000000000 +09:00
 '522':
   title: 続 グリム童話
   author: 
   complete: true
+  created_at: 2011-09-04 23:38:11.000000000 +09:00
 '523':
   title: グリム童話 金瓶梅
   author: 竹崎 真実
   complete: false
+  created_at: 2011-09-04 23:39:01.000000000 +09:00
 '524':
   title: グリム童話 殺しのヴィーナス
   author: 森園みるく
   complete: true
+  created_at: 2011-09-04 23:39:59.000000000 +09:00
 '525':
   title: どろろ
   author: 手塚治虫
   complete: true
+  created_at: 2011-09-04 23:40:59.000000000 +09:00
 '526':
   title: 1ポンドの福音
   author: 高橋留美子
   complete: true
+  created_at: 2011-09-04 23:42:00.000000000 +09:00
 '527':
   title: 恋のたまご
   author: 槇村さとる
   complete: true
+  created_at: 2011-09-04 23:47:25.000000000 +09:00
 '528':
   title: なんて素敵にジャパネスク 人妻編
   author: 山内 直実
   complete: false
+  created_at: 2011-09-04 23:49:17.000000000 +09:00
 '529':
   title: シンクロオンチ
   author: きら
   complete: false
+  created_at: 2012-02-04 09:21:40.000000000 +09:00
 '530':
   title: 火の鳥
   author: 手塚治虫
   complete: false
+  created_at: 2012-02-04 09:23:16.000000000 +09:00
 '531':
   title: 悪女
   author: 深見じゅん
   complete: true
+  created_at: 2012-02-04 09:24:21.000000000 +09:00
 '532':
   title: 社長 島耕作
   author: 弘兼 憲史
   complete: false
+  created_at: 2012-05-03 21:58:37.000000000 +09:00
 '533':
   title: 専務 島耕作
   author: 弘兼 憲史
   complete: false
+  created_at: 2012-05-03 21:59:03.000000000 +09:00
 '534':
   title: 花ざかりの君たちへ?After School
   author: 中条比紗也
   complete: true
+  created_at: 2012-05-28 10:43:29.000000000 +09:00
 '535':
   title: 秘密-トップ・シークレット
   author: 清水玲子
   complete: false
+  created_at: 2012-08-27 10:54:40.000000000 +09:00
 '536':
   title: 月館の殺人
   author: 佐々木倫子
   complete: true
+  created_at: 2012-08-27 10:53:58.000000000 +09:00
 '537':
   title: 金田一少年の事件簿ー雪霊伝説殺人事件
   author: さとうふみや
   complete: true
+  created_at: 2012-08-27 10:57:37.000000000 +09:00
 '538':
   title: カイジ　和也編
   author: 福本伸行
   complete: false
+  created_at: 2012-08-27 10:59:46.000000000 +09:00
 '539':
   title: 心臓より高く
   author: きら
   complete: true
+  created_at: 2012-08-27 11:00:37.000000000 +09:00

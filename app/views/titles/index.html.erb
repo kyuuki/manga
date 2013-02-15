@@ -8,13 +8,15 @@
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
   </tr>
 
-<% @titles.each do |title| %>
+<% @titles.sort{ |a, b| a.author.to_s <=> b.author.to_s }.each do |title| %>
   <tr>
     <td><%= title.title %></td>
     <td><%= title.author %></td>
     <td><%= title.complete %></td>
+    <td><%= title.books_string %></td>
     <td><%= link_to 'Show', title %></td>
     <td><%= link_to 'Edit', edit_title_path(title) %></td>
     <td><%= link_to 'Destroy', title, method: :delete, data: { confirm: 'Are you sure?' } %></td>
