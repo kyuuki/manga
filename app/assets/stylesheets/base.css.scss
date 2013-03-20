@@ -1,5 +1,9 @@
 @import "bootstrap";
 
+html {
+  overflow-y: scroll;
+}
+
 h1 img {
   margin-left: -10px;
 }
@@ -9,3 +13,14 @@ h2 {
   line-height: 18px;
 }
 
+.fixed .control-label {
+  font-weight: bold;
+}
+
+.fixed .controls {
+  padding-top: 5px;
+}
+
+.fixed .control-group {
+  margin-bottom: 5px;
+}

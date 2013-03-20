@@ -1,31 +1,57 @@
+<div>
+  <p>
+    <h2 class="border wedgwood leftline3"><%= @title.title %></h2>
+  </p>
+</div>
+
 <p id="notice"><%= notice %></p>
 
-<p>
-  <b>Title:</b>
-  <%= @title.title %>
-</p>
+<form class="form-horizontal fixed">
+  <fieldset>
 
-<p>
-  <b>Author:</b>
-  <%= @title.author %>
-</p>
+    <div class="control-group">
+      <label class="control-label">著者</label>
+      <div class="controls controls-text">
+        <%= @title.author %>
+      </div>
+    </div>
 
-<p>
-  <b>Complete:</b>
-  <%= @title.complete %>
-</p>
+    <div class="control-group">
+      <label class="control-label">全開揃い</label>
+      <div class="controls controls-text">
+        <%= @title.complete %>
+      </div>
+    </div>
 
-<p>
-  <b>Created_at:</b>
-  <%= @title.created_at %>
-</p>
+    <div class="control-group">
+      <label class="control-label">登録日</label>
+      <div class="controls controls-text">
+        <%= @title.created_at %>
+      </div>
+    </div>
 
-<ul>
+  </fieldset>
+</form>
+
+<table class="table table-bordered table-striped table-condensed">
+
+<thead>
+  <tr>
+    <th>巻数</th>
+    <th>登録日</th>
+  </tr>
+</thead>
+
+<tbody>
 <% @title.books.sort{ |a, b| a.volume <=> b.volume }.each do |book| %>
-  <li><%= book.volume %> - <%= book.created_at %>
+  <tr>
+    <td><%= book.volume %></td>
+    <td><%= book.created_at %></td>
+  </tr>
 <% end %>
-</ul>
+</tbody>
 
+</table>
 
 <%= link_to 'Edit', edit_title_path(@title) %> |
 <%= link_to 'Back', titles_path %>
