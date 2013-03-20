@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Manga</title>
+  <title>Manga Database</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
@@ -9,10 +9,14 @@
 <body>
 
 <div class="container">
-  <div class="row">
-    <%= yield %>
-  </div>
-</div>
+
+  <header>
+    <h1><%= link_to image_tag("logo_small.png"), "/" %></h1>
+  </header>
+
+  <%= yield %>
+
+</div><!-- .container -->
 
 </body>
 </html>
