@@ -1,3 +1,19 @@
 // Place all the styles related to the titles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+th.title {
+  width: 30%;
+}
+
+th.author {
+  width: 20%;
+}
+
+th.complete {
+  width: 70px;
+}
+
+td.complete {
+  text-align: center;  
+}
