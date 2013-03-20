@@ -12,10 +12,10 @@ class Title < ActiveRecord::Base
       volumes.push book.volume
     end
 
-    array_to_short_string(volumes.sort)
+    Title.array_to_short_string(volumes.sort)
   end
 
-  def array_to_short_string(array)
+  def self.array_to_short_string(array)
     ranges = []  # ex. [ "1-4", "6", "8-12", "15,16" ]
     range = nil  # ex. [ 2, 3, 4, 5]
 
@@ -25,19 +25,19 @@ class Title < ActiveRecord::Base
       elsif range[-1] + 1 == i
         range.push i
       else
-        ranges.push start_end_to_string(range[0], range[-1])
+        ranges.push Title.start_end_to_string(range[0], range[-1])
         range = [ i ]
       end
     end
 
     unless range.nil?
-      ranges.push start_end_to_string(range[0], range[-1])
+      ranges.push Title.start_end_to_string(range[0], range[-1])
     end
 
     ranges.join(",")
   end
 
-  def start_end_to_string(s, e)
+  def self.start_end_to_string(s, e)
     if s == e
       "#{s}"
     elsif s + 1 == e

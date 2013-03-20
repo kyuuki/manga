@@ -2,7 +2,7 @@ require 'test_helper'
 
 class TitlesControllerTest < ActionController::TestCase
   setup do
-    @title = titles(:one)
+    @title = titles("1")
   end
 
   test "should get index" do
