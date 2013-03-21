@@ -2,8 +2,7 @@ class TitlesController < ApplicationController
   # GET /titles
   # GET /titles.json
   def index
-    #@titles = Title.all
-    @titles = Title.order('author').paginate(:page => params[:page], :per_page => 20)
+    @titles = Title.order("author", "title").paginate(:page => params[:page], :per_page => 20)
 
     respond_to do |format|
       format.html # index.html.erb
