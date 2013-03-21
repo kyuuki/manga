@@ -1,8 +1,17 @@
+# -*- coding: utf-8 -*-
 class TitlesController < ApplicationController
   # GET /titles
   # GET /titles.json
   def index
-    @titles = Title.order("author", "title").paginate(:page => params[:page], :per_page => 20)
+    @query = params[:query]   # 検索ページの場合は nil 以外
+    @query = nil if @query == ""  # 何も入力しないで、検索ボタンを押された場合だけは弾く
+
+    if (@query.nil?)
+      @titles = Title.order("author", "title").paginate(:page => params[:page], :per_page => 20)
+    else
+      @titles = Title.where("author LIKE :query OR title LIKE :query", { :query => "%#{@query}%" })
+                     .order("author", "title").paginate(:page => params[:page], :per_page => 20)
+    end
 
     respond_to do |format|
       format.html # index.html.erb

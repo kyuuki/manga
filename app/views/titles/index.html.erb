@@ -4,6 +4,29 @@
   </p>
 </div>
 
+<div class="row">
+  <div class="span8">
+    <% unless @query.nil? %>
+    <p class="text-info search-info"><strong><%= @query %></strong> での検索結果</p>
+    <% end %>
+  </div>
+
+  <!--
+  <div class="span4 input-append pull-right">
+    <input id="appendedInputButton" size="100" type="text" placeholder="検索キーワードを入力">
+    <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+  </div>
+  -->
+
+  <div class="span4 input-append pull-right">
+    <%= form_tag({ :action => "index" }, { :method => :get }) do %>
+      <%= text_field_tag :query, "", 
+          { :id => "appendedInputButton", :size => 100, :placeholder => "検索キーワードを入力" } %>
+      <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+    <% end %>
+  </div>
+</div><!-- .row -->
+
 <table class="table table-bordered table-striped table-condensed">
 <thead>
   <tr>
