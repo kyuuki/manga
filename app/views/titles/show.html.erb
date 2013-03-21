@@ -19,14 +19,18 @@
     <div class="control-group">
       <label class="control-label">全開揃い</label>
       <div class="controls controls-text">
-        <%= @title.complete %>
+        <% if @title.complete %>
+          <i class="icon-ok"></i>
+        <% else %>
+          (未)
+        <% end %>
       </div>
     </div>
 
     <div class="control-group">
       <label class="control-label">登録日</label>
       <div class="controls controls-text">
-        <%= @title.created_at %>
+        <%= l @title.created_at %>
       </div>
     </div>
 
@@ -39,6 +43,8 @@
   <tr>
     <th>巻数</th>
     <th>登録日</th>
+    <th>更新日</th>
+    <th></th>
   </tr>
 </thead>
 
@@ -46,7 +52,9 @@
 <% @title.books.sort{ |a, b| a.volume <=> b.volume }.each do |book| %>
   <tr>
     <td><%= book.volume %></td>
-    <td><%= book.created_at %></td>
+    <td><%= l book.created_at %></td>
+    <td><%= l book.updated_at %></td>
+    <td><%= link_to 'Destroy', book, method: :delete, data: { confirm: 'Are you sure?' } %></td>
   </tr>
 <% end %>
 </tbody>
