@@ -34,7 +34,7 @@
     <th class="author">作者</th>
     <th class="complete">全巻揃い</th>
     <th>巻数</th>
-    <th></th>
+    <th>登録日時</th>
   </tr>
 </thead>
 
@@ -50,8 +50,11 @@
       <% end %>
     </td>
     <td><%= title.books_string %></td>
+    <td><%= l title.created_at %></td>
+<!--
     <td><%= link_to 'Edit', edit_title_path(title) %> |
         <%= link_to 'Delete', title, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+-->
   </tr>
 <% end %>
 </tbody>
