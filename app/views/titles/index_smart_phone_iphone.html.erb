@@ -1,0 +1,59 @@
+<div>
+  <p>
+    <h2 class="border wedgwood leftline3">タイトル一覧</h2>
+  </p>
+</div>
+
+<div class="row">
+  <div class="span8">
+    <% unless @query.nil? %>
+    <p class="text-info search-info"><strong><%= @query %></strong> での検索結果</p>
+    <% end %>
+  </div>
+
+  <!--
+  <div class="span4 input-append pull-right">
+    <input id="appendedInputButton" size="100" type="text" placeholder="検索キーワードを入力">
+    <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+  </div>
+  -->
+
+  <div class="span4 input-append pull-right">
+    <%= form_tag({ :action => "index" }, { :method => :get }) do %>
+      <%= text_field_tag :query, "", 
+          { :id => "appendedInputButton", :size => 100, :placeholder => "検索キーワードを入力" } %>
+      <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+    <% end %>
+  </div>
+</div><!-- .row -->
+
+<table class="table table-bordered table-striped table-condensed">
+<thead>
+  <tr>
+    <th class="title">タイトル</th>
+    <th class="author">作者</th>
+    <th class="complete">全巻揃い</th>
+    <th>巻数</th>
+  </tr>
+</thead>
+
+<tbody>
+<% @titles.each do |title| %>
+  <tr>
+    <td><%= link_to title.title, title %></td>
+    <td><%= title.author %></td>
+    <td class="complete">
+      <% if title.complete %>
+         <i class="icon-ok"></i>
+      <% else %>
+      <% end %>
+    </td>
+    <td><%= title.books_string %></td>
+  </tr>
+<% end %>
+</tbody>
+
+</table>
+
+<%= will_paginate @title, :previous_label => '前のページ', :next_label => '次のページ',
+                          :renderer => BootstrapPagination::Rails %>
