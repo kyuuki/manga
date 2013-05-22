@@ -21,7 +21,7 @@
   <div class="span4 input-append pull-right">
     <%= form_tag({ :action => "index" }, { :method => :get }) do %>
       <%= text_field_tag :query, "", 
-          { :id => "appendedInputButton", :size => 100, :placeholder => "検索キーワードを入力" } %>
+          { :id => "appendedInputButton", :size => 24, :placeholder => "検索キーワードを入力" } %>
       <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
     <% end %>
   </div>
@@ -32,7 +32,7 @@
   <tr>
     <th class="title">タイトル</th>
     <th class="author">作者</th>
-    <th class="complete">全巻揃い</th>
+    <th class="complete">全</th>
     <th>巻数</th>
   </tr>
 </thead>
@@ -55,5 +55,5 @@
 
 </table>
 
-<%= will_paginate @title, :previous_label => '前のページ', :next_label => '次のページ',
+<%= will_paginate @title, :previous_label => '前', :next_label => '次', :inner_window => 0, :outer_window => 0,
                           :renderer => BootstrapPagination::Rails %>
