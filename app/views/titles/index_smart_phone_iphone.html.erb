@@ -27,33 +27,13 @@
   </div>
 </div><!-- .row -->
 
-<table class="table table-bordered table-striped table-condensed">
-<thead>
-  <tr>
-    <th class="title">タイトル</th>
-    <th class="author">作者</th>
-    <th class="complete">全</th>
-    <th>巻数</th>
-  </tr>
-</thead>
-
-<tbody>
+<ul data-role="listview">
 <% @titles.each do |title| %>
-  <tr>
-    <td><%= link_to title.title, title %></td>
-    <td><%= title.author %></td>
-    <td class="complete">
-      <% if title.complete %>
-         <i class="icon-ok"></i>
-      <% else %>
-      <% end %>
-    </td>
-    <td><%= title.books_string %></td>
-  </tr>
+  <li>
+    <%= link_to title.title, title %>
+  </li>
 <% end %>
-</tbody>
-
-</table>
+</ul>
 
 <%= will_paginate @title, :previous_label => '前', :next_label => '次', :inner_window => 0, :outer_window => 0,
                           :renderer => BootstrapPagination::Rails %>
