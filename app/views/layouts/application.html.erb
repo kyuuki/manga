@@ -10,12 +10,16 @@
 
 <div class="container">
 
+  <% if controller.controller_name != "welcome" %>
   <header>
     <h1><%= link_to image_tag("logo_small.png"), "/" %></h1>
   </header>
+  <% end %>
 
   <%= yield %>
 
+  <footer id="footer">
+  </footer>
 </div><!-- .container -->
 
 </body>
