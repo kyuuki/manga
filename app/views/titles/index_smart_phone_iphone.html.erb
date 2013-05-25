@@ -1,39 +1,35 @@
-<div>
-  <p>
-    <h2 class="border wedgwood leftline3">タイトル一覧</h2>
-  </p>
-</div>
-
-<div class="row">
-  <div class="span8">
-    <% unless @query.nil? %>
-    <p class="text-info search-info"><strong><%= @query %></strong> での検索結果</p>
-    <% end %>
+<div data-role="page">
+  <div data-role="header">
+    <h2>タイトル一覧</h2>
   </div>
 
-  <!--
-  <div class="span4 input-append pull-right">
-    <input id="appendedInputButton" size="100" type="text" placeholder="検索キーワードを入力">
-    <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+  <div data-role="content">
+    <div>
+      <% unless @query.nil? %>
+      <p class="text-info search-info"><strong><%= @query %></strong> での検索結果</p>
+      <% end %>
+    </div>
+
+    <div>
+      <%= form_tag({ :action => "index" }, { :method => :get }) do %>
+        <%= text_field_tag :query, "", 
+            { :id => "appendedInputButton", :size => 24, :placeholder => "検索キーワードを入力" } %>
+        <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
+      <% end %>
+    </div>
+  </div><!-- content -->
+
+  <ul data-role="listview">
+  <% @titles.each do |title| %>
+    <li>
+      <%= link_to title.title, title %>
+    </li>
+  <% end %>
+  </ul>
+
+  <%= will_paginate @title, :previous_label => '前', :next_label => '次', :inner_window => 0, :outer_window => 0,
+                            :renderer => BootstrapPagination::Rails %>
+
+  <div data-role="footer">
   </div>
-  -->
-
-  <div class="span4 input-append pull-right">
-    <%= form_tag({ :action => "index" }, { :method => :get }) do %>
-      <%= text_field_tag :query, "", 
-          { :id => "appendedInputButton", :size => 24, :placeholder => "検索キーワードを入力" } %>
-      <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
-    <% end %>
-  </div>
-</div><!-- .row -->
-
-<ul data-role="listview">
-<% @titles.each do |title| %>
-  <li>
-    <%= link_to title.title, title %>
-  </li>
-<% end %>
-</ul>
-
-<%= will_paginate @title, :previous_label => '前', :next_label => '次', :inner_window => 0, :outer_window => 0,
-                          :renderer => BootstrapPagination::Rails %>
+</div><!-- page -->

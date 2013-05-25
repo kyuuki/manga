@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
   <title>Manga Database</title>
   <%= stylesheet_link_tag    "application_iphone", :media => "all" %>
   <%= javascript_include_tag "application_iphone" %>
@@ -9,15 +10,7 @@
 </head>
 <body>
 
-<div class="container">
-
-  <header>
-    <h1><%= link_to image_tag("logo_small.png"), "/" %></h1>
-  </header>
-
-  <%= yield %>
-
-</div><!-- .container -->
+<%= yield %>
 
 </body>
 </html>
