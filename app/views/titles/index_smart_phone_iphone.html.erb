@@ -22,13 +22,17 @@
   <ul data-role="listview">
   <% @titles.each do |title| %>
     <li>
-      <%= link_to title.title, title %>
+      <%= link_to title do %>
+        <p><%= title.author %></p>
+        <%= title.title %>
+        <span class="ui-li-count"><%= title.books_string %></span>
+      <% end %>
     </li>
   <% end %>
   </ul>
 
-  <%= will_paginate @title, :previous_label => '前', :next_label => '次', :inner_window => 0, :outer_window => 0,
-                            :renderer => BootstrapPagination::Rails %>
+  <%= will_paginate @title, :previous_label => '前へ', :next_label => '次へ', :inner_window => 0, :outer_window => 0,
+                            :renderer => WillPaginate::ActionView::JqueryMobilePaginateLinkRenderer %>
 
   <div data-role="footer">
   </div>
