@@ -1,0 +1,39 @@
+<div data-role="page">
+  <div data-role="header">
+    <h2><%= @title.title %></h2>
+  </div>
+
+  <p id="notice"><%= notice %></p>
+
+  <div data-role="content">
+    <dl title="ui-body">
+      <dt><b>著者</b></dt>
+      <dd><%= @title.author %></dd>
+    </dl>
+    <dl title="ui-body">
+      <dt><b>全巻揃い</b></dt>
+      <dd>
+        <% if @title.complete %>
+          <a data-role="button" data-iconpos="notext" data-icon="check"></a>
+        <% else %>
+          <a data-role="button" data-iconpos="notext" data-icon="delete"></a>
+        <% end %>
+      </dd>
+    </dl>
+    <dl title="ui-body">
+      <dt><b>登録日</b></dt>
+      <dd><%= l @title.created_at %></dd>
+    </dl>
+
+    <ul data-role="listview" data-inset="true">
+      <li data-role="list-divider">巻数</li>
+    <% @title.books.sort{ |a, b| a.volume <=> b.volume }.each do |book| %>
+      <li>
+        <%= book.volume %>
+        <p class="ui-li-aside"><%= l book.created_at %></p>
+      </li>
+    <% end %>
+    </ul>
+  </div><!-- content -->
+
+</div><!-- page -->
