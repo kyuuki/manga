@@ -1,6 +1,12 @@
 <div data-role="page">
   <div data-role="header">
-    <h2>タイトル一覧</h2>
+    <% if @complete.nil? %>
+      <h2>タイトル一覧</h2>
+    <% elsif @complete == true %>
+      <h2>全巻揃い一覧</h2>
+    <% elsif @complete == false %>
+      <h2>未完一覧</h2>
+    <% end %>
   </div>
 
   <div data-role="content">

@@ -1,5 +1,5 @@
 <h1><img src="/assets/logo.png" alt="logo" /></h1>
 <ul>
-  <li><a href="/titles">タイトル一覧</a>
-  <li><a href="/titles">未完一覧</a>
+  <li><%= link_to "タイトル一覧", titles_path %></li>
+  <li><%= link_to "未完一覧", titles_path(:complete => "false") %></li>
 </ul>

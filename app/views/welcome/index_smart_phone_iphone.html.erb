@@ -8,7 +8,7 @@
 
   <ul data-role="listview">
     <li><%= link_to "タイトル一覧", titles_path %></li>
-    <li><%= link_to "未完一覧", titles_path %></li>
+    <li><%= link_to "未完一覧", titles_path(:complete => "false") %></li>
   </ul>
 
   </div>

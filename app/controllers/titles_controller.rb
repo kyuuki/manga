@@ -4,14 +4,26 @@ class TitlesController < ApplicationController
   # GET /titles.json
   def index
     @query = params[:query]   # 検索ページの場合は nil 以外
-    @query = nil if @query == ""  # 何も入力しないで、検索ボタンを押された場合だけは弾く
+    @query = nil if @query == ""  # 何も入力しないで、検索ボタンを押された場合だけは検索しない
 
-    if (@query.nil?)
-      @titles = Title.order("author", "title").paginate(:page => params[:page], :per_page => 20)
-    else
-      @titles = Title.where("author LIKE :query OR title LIKE :query", { :query => "%#{@query}%" })
-                     .order("author", "title").paginate(:page => params[:page], :per_page => 20)
+    if params[:complete] == "true"
+      @complete = true
+    elsif params[:complete] == "false"
+      @complete = false
     end
+
+    @titles = Title
+
+    unless (@query.nil?)
+      @titles = @titles.where("author LIKE :query OR title LIKE :query", { :query => "%#{@query}%" })
+    end
+
+    unless (@complete.nil?)
+      @titles = @titles.where(:complete => @complete)
+    end
+
+
+    @titles = @titles.order("author", "title").paginate(:page => params[:page], :per_page => 20)
 
     respond_to do |format|
       format.html # index.html.erb

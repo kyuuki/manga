@@ -1,6 +1,13 @@
 <div>
   <p>
-    <h2 class="border wedgwood leftline3">タイトル一覧</h2>
+    <% if @complete.nil? %>
+      <% add_title = "" %>
+    <% elsif @complete == true %>
+      <% add_title = " (全巻揃い)" %>
+    <% elsif @complete == false %>
+      <% add_title = " (未完)" %>
+    <% end %>
+    <h2 class="border wedgwood leftline3">タイトル一覧<%= add_title %></h2>
   </p>
 </div>
 

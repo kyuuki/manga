@@ -3,7 +3,9 @@
     <h2><%= @title.title %></h2>
   </div>
 
-  <p id="notice"><%= notice %></p>
+  <% if not notice.nil? %>
+    <p id="notice"><%= notice %></p>
+  <% end %>
 
   <div data-role="content">
     <dl title="ui-body">
