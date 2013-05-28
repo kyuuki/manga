@@ -1,5 +1,6 @@
 <div data-role="page">
-  <div data-role="header">
+  <div data-role="header" data-position="fixed">
+    <a href="#" data-icon="arrow-l" data-rel="back">Back</a>
     <% if @complete.nil? %>
       <h2>タイトル一覧</h2>
     <% elsif @complete == true %>
@@ -7,22 +8,23 @@
     <% elsif @complete == false %>
       <h2>未完一覧</h2>
     <% end %>
+    <%= link_to "Home", root_path, { "data-icon" => "home" } %>
   </div>
 
   <div data-role="content">
-    <div>
-      <% unless @query.nil? %>
-      <p class="text-info search-info"><strong><%= @query %></strong> での検索結果</p>
+    <div data-role="fieldcontain">
+      <%= form_tag({ :action => "index" }, { :method => :get }) do %>
+        <%= text_field_tag :query, "", 
+            { :type => "search", :size => 24, :placeholder => "検索キーワードを入力" } %>
+        <%= submit_tag "検索" %>
       <% end %>
     </div>
 
-    <div>
-      <%= form_tag({ :action => "index" }, { :method => :get }) do %>
-        <%= text_field_tag :query, "", 
-            { :id => "appendedInputButton", :size => 24, :placeholder => "検索キーワードを入力" } %>
-        <button class="btn" type="submit"><i class="icon-search"></i> 検索</button>
-      <% end %>
-    </div>
+    <% unless @query.nil? %>
+    <p>
+      <strong><%= @query %></strong> での検索結果
+    </p>
+    <% end %>
   </div><!-- content -->
 
   <ul data-role="listview">
@@ -37,9 +39,8 @@
   <% end %>
   </ul>
 
+  <div data-role="footer" data-position="fixed">
   <%= will_paginate @title, :previous_label => '前へ', :next_label => '次へ', :inner_window => 0, :outer_window => 0,
                             :renderer => WillPaginate::ActionView::JqueryMobilePaginateLinkRenderer %>
-
-  <div data-role="footer">
   </div>
 </div><!-- page -->

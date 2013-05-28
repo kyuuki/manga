@@ -1,6 +1,8 @@
 <div data-role="page">
-  <div data-role="header">
+  <div data-role="header" data-position="fixed">
+    <a href="#" data-icon="arrow-l" data-rel="back">Back</a>
     <h2><%= @title.title %></h2>
+    <%= link_to "Home", root_path, { "data-icon" => "home" } %>
   </div>
 
   <% if not notice.nil? %>
@@ -8,11 +10,15 @@
   <% end %>
 
   <div data-role="content">
-    <dl title="ui-body">
+    <dl>
+      <dt><b>タイトル</b></dt>
+      <dd><%= @title.title %></dd>
+    </dl>
+    <dl>
       <dt><b>著者</b></dt>
       <dd><%= @title.author %></dd>
     </dl>
-    <dl title="ui-body">
+    <dl>
       <dt><b>全巻揃い</b></dt>
       <dd>
         <% if @title.complete %>
@@ -22,7 +28,7 @@
         <% end %>
       </dd>
     </dl>
-    <dl title="ui-body">
+    <dl>
       <dt><b>登録日</b></dt>
       <dd><%= l @title.created_at %></dd>
     </dl>
