@@ -22,8 +22,11 @@ class TitlesController < ApplicationController
       @titles = @titles.where(:complete => @complete)
     end
 
-
-    @titles = @titles.order("author", "title").paginate(:page => params[:page], :per_page => 20)
+    if ENV["RACK_ENV"] == "production"
+      @titles = @titles.order('author COLLATE "C" ASC', 'title COLLATE "C" ASC').paginate(:page => params[:page], :per_page => 20)
+    else
+      @titles = @titles.order('author', 'title').paginate(:page => params[:page], :per_page => 20)
+    end
 
     respond_to do |format|
       format.html # index.html.erb
